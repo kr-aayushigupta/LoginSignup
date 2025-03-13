@@ -1,4 +1,4 @@
-Created a Signup and Login page in Nextjs with database connectivity (used mongoose atlas) 
+Created a Signup and Login page in Nextjs with database connectivity 
 
 
 ![Screenshot from 2025-03-13 16-44-48](https://github.com/user-attachments/assets/cab3c197-3eb0-4ed4-af25-1459b0202702)
